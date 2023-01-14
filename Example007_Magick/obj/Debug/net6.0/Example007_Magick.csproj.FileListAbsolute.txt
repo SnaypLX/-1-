@@ -1,0 +1,15 @@
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\bin\Debug\net6.0\Example007_Magick.exe
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\bin\Debug\net6.0\Example007_Magick.deps.json
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\bin\Debug\net6.0\Example007_Magick.runtimeconfig.json
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\bin\Debug\net6.0\Example007_Magick.dll
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\bin\Debug\net6.0\Example007_Magick.pdb
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\obj\Debug\net6.0\Example007_Magick.csproj.AssemblyReference.cache
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\obj\Debug\net6.0\Example007_Magick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\obj\Debug\net6.0\Example007_Magick.AssemblyInfoInputs.cache
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\obj\Debug\net6.0\Example007_Magick.AssemblyInfo.cs
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\obj\Debug\net6.0\Example007_Magick.csproj.CoreCompileInputs.cache
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\obj\Debug\net6.0\Example007_Magick.dll
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\obj\Debug\net6.0\refint\Example007_Magick.dll
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\obj\Debug\net6.0\Example007_Magick.pdb
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\obj\Debug\net6.0\Example007_Magick.genruntimeconfig.cache
+C:\Гик Браинз\Лекции C#\examples\Example007_Magick\obj\Debug\net6.0\ref\Example007_Magick.dll
