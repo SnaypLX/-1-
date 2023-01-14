@@ -1,0 +1,15 @@
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\obj\Debug\net6.0\Example005Condishen.csproj.AssemblyReference.cache
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\obj\Debug\net6.0\Example005Condishen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\obj\Debug\net6.0\Example005Condishen.AssemblyInfoInputs.cache
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\obj\Debug\net6.0\Example005Condishen.AssemblyInfo.cs
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\obj\Debug\net6.0\Example005Condishen.csproj.CoreCompileInputs.cache
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\bin\Debug\net6.0\Example005Condishen.exe
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\bin\Debug\net6.0\Example005Condishen.deps.json
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\bin\Debug\net6.0\Example005Condishen.runtimeconfig.json
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\bin\Debug\net6.0\Example005Condishen.dll
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\bin\Debug\net6.0\Example005Condishen.pdb
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\obj\Debug\net6.0\Example005Condishen.dll
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\obj\Debug\net6.0\refint\Example005Condishen.dll
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\obj\Debug\net6.0\Example005Condishen.pdb
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\obj\Debug\net6.0\Example005Condishen.genruntimeconfig.cache
+C:\Гик Браинз\Лекции C#\examples\Example005Condishen\obj\Debug\net6.0\ref\Example005Condishen.dll
